@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-assignment-1",
+  "version": "1.0.0",
+  "description": "Full Stack React Assignment 1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/above-the-line/bootstrap-assignment1.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Avi Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/above-the-line/bootstrap-assignment1/issues"
+  },
+  "homepage": "https://github.com/above-the-line/bootstrap-assignment1#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "lite-server": "^2.5.4",
+    "popper.js": "^1.12.9"
+  }
+}
